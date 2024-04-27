@@ -10,7 +10,7 @@ Olá, sou Anderson, um entusiasta da tecnologia e engenheiro da computação por
 
 Para começar sua jornada com o Next.js e aprimorar suas habilidades em desenvolvimento web, baixe o eBook através do link abaixo:
 
-[Download Desenvolvimento Turbo: Next.js para Programadores Iniciantes](https://github.com/driman-systems/ebook/blob/main/ebook-nextjs.pdf)
+[Download Desenvolvimento Turbo: Next.js](https://github.com/driman-systems/ebook/blob/main/ebook-nextjs.pdf)
 
 ## Conteúdo
 
